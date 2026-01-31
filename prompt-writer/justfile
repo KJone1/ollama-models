@@ -1,3 +1,4 @@
+set allow-duplicate-variables
 IMAGE_NAME := "prompt-writer"
 
 import "../justfile"
