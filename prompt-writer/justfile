@@ -1,0 +1,3 @@
+IMAGE_NAME := "prompt-writer"
+
+import "../justfile"
